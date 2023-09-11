@@ -1,7 +1,7 @@
 import React from 'react';
-import './ServicesPage.css'; // Import the CSS file
-import service1Image from '../images/service1.jpeg'; // Import your service images
-import service2Image from '../images/service2.webp'; // Import your service images
+import './ServicesPage.css';
+import service1Image from '../images/service1.jpeg';
+import service2Image from '../images/service2.webp';
 
 function ServicesPage() {
   return (
